@@ -1,4 +1,4 @@
-# What I learned about Maekdown:
+# What I learned about Markdown:
 
 - markdown is cool
 

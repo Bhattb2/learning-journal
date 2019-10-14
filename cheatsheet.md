@@ -1,7 +1,7 @@
 # My Cheat Sheets
 
 What is a text editor?
-- A text editor is a downlaidable software  that  allows you to write and maintain text, particularly text that you use to buid web sites.
+- A text editor is a downlaidable software that allows you to write and maintain text, particularly text that you use to build web sites.
 
 Components of a terminal:
 - The Command Line

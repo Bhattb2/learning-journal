@@ -4,3 +4,4 @@ I will learn.
 - markdown
 - Growth Mindset
 - Sandbox
+- Mind set is .........

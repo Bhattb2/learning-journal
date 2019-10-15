@@ -1,6 +1,6 @@
 # Git vs GutHub
 
-- Version Control
+-Version Control
 Version Control makes it possible to bo back to various versions of a file or set of files by recording changes. 
 There are several types v version control.
 - Local Control

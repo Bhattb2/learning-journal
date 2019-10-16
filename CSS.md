@@ -13,6 +13,7 @@ What does CSS do?
   - These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: 
     - a selector 
     - a declaration.
+    
 - CSS Properties affect how elements Are displayed.
     - CSS declarations sit inside curly brackets and each is made up of two parts: 
       - a property, a value, separated by a colon. 
